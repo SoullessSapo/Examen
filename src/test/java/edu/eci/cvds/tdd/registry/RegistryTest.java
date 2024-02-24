@@ -42,7 +42,7 @@ public class RegistryTest {
         Assert.assertEquals(result, RegisterResult.ZOO_SAMPLE);
     }
     @Test
-    public void valitn(){
+    public void valin(){
 
     }
 }
