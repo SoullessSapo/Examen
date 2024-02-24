@@ -41,4 +41,8 @@ public class RegistryTest {
         RegisterResult result = registry.registerVoter(person);
         Assert.assertEquals(result, RegisterResult.ZOO_SAMPLE);
     }
+    @Test
+    public void validateGene(){
+
+    }
 }
